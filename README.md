@@ -12,7 +12,7 @@ A Software Engineer with years of experience in building scalable web applicatio
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahaarijit&layout=compact&size_weight=0.5&count_weight=0.5)
 
-- 🌱 I'm currently learning Agenti AI
+- 🌱 I'm currently learning Agentic AI
 - 📫 How to reach me: [**`arijitsaha.dev@gmail.com`**](mailto:arijitsaha.dev@gmail.com)
 - 😃 Happy Learning
 
