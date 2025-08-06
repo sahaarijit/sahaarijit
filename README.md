@@ -8,7 +8,7 @@ A Software Engineer with years of experience in building scalable web applicatio
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sahaarijit&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=sahaarijit&mode=weekly)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sahaarijit&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahaarijit&layout=compact&size_weight=0.5&count_weight=0.5)
 
