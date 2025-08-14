@@ -2,7 +2,7 @@
 
 ### About Me
 
-A Software Engineer with years of experience in building scalable software products using the TypeScript stack (Node.js/Nest.js, Next.js, Angular, SQL), mostly contributing to various organizational codebases. I lead solution architecture and DevOps, and currently diving deep into Agentic AI to craft intelligent, autonomous systems. Passionate about building impactful tools, learning continuously, and sharing knowledge with the developer community.
+A Software Engineer with years of experience in building scalable software products using the **TypeScript stack (Node.js/Nest.js, Next.js, Angular, SQL)**, mostly contributing to various organizational codebases. I contribute as **Technical Lead, Solution Architect, Cloud Deployments** and **Server Management**, and currently diving deep into **Agentic AI** to craft intelligent, autonomous systems. Passionate about building impactful tools, learning continuously, and sharing knowledge with the developer community.
 
 ## My Github Stats
 
