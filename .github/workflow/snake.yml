@@ -2,7 +2,7 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+    - cron: "30 18 * * *"  # Runs daily at midnight IST (UTC+5:30)
   workflow_dispatch:       # Allows manual trigger from Actions tab
 
 jobs:
