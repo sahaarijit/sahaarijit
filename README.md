@@ -92,12 +92,78 @@ Status :  Crafting intelligent, self-hostable systems
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.66%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.4 MB Used in GitHub's Storage 
+ > 
+> 🏆 2,705 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 37 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-⚙️  WakaTime not yet configured — set it up to see live coding stats here.
-    Guide: https://github.com/anmol098/waka-readme-stats
+🌞 Morning                90278 commits       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+🌆 Daytime                103656 commits      ████████░░░░░░░░░░░░░░░░░   32.95 % 
+🌃 Evening                77902 commits       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+🌙 Night                  42712 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   9068 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Tuesday                  16456 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Wednesday                32414 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Thursday                 63594 commits       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Friday                   71441 commits       ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+Saturday                 92014 commits       ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+Sunday                   29561 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               28 repos            ████████░░░░░░░░░░░░░░░░░   31.82 % 
+TypeScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Python                   15 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Java                     10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+C#                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/sahaarijit/sahaarijit/main/assets/bar_graph.png)
+
+
+ Last Updated on 31/05/2026 07:12:06 UTC
 <!--END_SECTION:waka-->
 
 ---
