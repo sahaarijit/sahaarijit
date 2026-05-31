@@ -69,7 +69,7 @@ Status :  Crafting intelligent, self-hostable systems
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahaarijit&theme=github-compact&hide_border=true&area=true&area_color=D97757&color=D97757&line=7C3AED&point=D97757&custom_title=Arijit%27s+Contribution+Activity" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahaarijit&theme=github-compact&bg_color=0D1117&color=39d353&line=39d353&point=39d353&area=true&area_color=39d353&hide_border=true&custom_title=Arijit%27s+Contribution+Activity" width="100%" />
 
 </div>
 
