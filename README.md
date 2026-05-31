@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:7C3AED&height=160&section=header&text=Arijit&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:7C3AED&height=120&section=header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Serif&weight=700&size=42&duration=4000&pause=99999&color=D97757&center=true&vCenter=true&width=700&lines=Arijit+Saha" alt="Name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Serif&weight=600&size=22&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=700&lines=Building+scalable%2C+intelligent+systems;MCP+servers+%7C+RAG+pipelines+%7C+Agentic+AI;Full-Stack+%7C+DevOps+%7C+Cloud-Native;Open+to+interesting+problems." alt="Typing SVG" />
 
@@ -67,7 +69,21 @@ Status :  Crafting intelligent, self-hostable systems
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahaarijit&theme=github-compact&hide_border=true&custom_title=Arijit%27s+Contribution+Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://ghchart.rshah009.dev/D97757/sahaarijit" alt="Arijit's contribution calendar" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -83,20 +99,6 @@ Status :  Crafting intelligent, self-hostable systems
 ```
 
 <!--END_SECTION:waka-->
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
 
 ---
 
