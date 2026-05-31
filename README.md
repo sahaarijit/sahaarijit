@@ -8,13 +8,13 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sahaarijit&color=D97757&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=sahaarijit&color=D97757&style=plastic&label=Profile+Views" />
 &nbsp;
-<a href="https://www.linkedin.com/in/isahaarijit"><img src="https://img.shields.io/badge/LinkedIn-isahaarijit-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/isahaarijit"><img src="https://img.shields.io/badge/LinkedIn-isahaarijit-0A66C2?style=plastic&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Bengaluru%2C_India-%F0%9F%87%AE%F0%9F%87%B3-D97757?style=flat-square" />
+<img src="https://img.shields.io/badge/Bengaluru%2C_India-%F0%9F%87%AE%F0%9F%87%B3-D97757?style=plastic" />
 &nbsp;
-<img src="https://img.shields.io/badge/Open_to-Interesting_Problems-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Open_to-Interesting_Problems-7C3AED?style=plastic" />
 
 </div>
 
@@ -69,7 +69,7 @@ Status :  Crafting intelligent, self-hostable systems
 
 <div align="center">
 
-<img src="https://ghchart.rshah009.dev/D97757/sahaarijit" alt="Arijit's contribution calendar" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahaarijit&theme=github-compact&hide_border=true&area=true&area_color=D97757&color=D97757&line=7C3AED&point=D97757&custom_title=Arijit%27s+Contribution+Activity" width="100%" />
 
 </div>
 
