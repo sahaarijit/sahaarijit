@@ -1,32 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Arijit&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20Agentic%20AI&descAlignY=56&descAlign=50&descColor=a5b4fc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:7C3AED&height=160&section=header&text=Arijit&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=Building+scalable%2C+intelligent+systems+%F0%9F%9A%80;MCP+servers+%7C+RAG+pipelines+%7C+Agentic+AI;Full-Stack+%7C+DevOps+%7C+Cloud-Native;Open+to+interesting+problems." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Serif&weight=600&size=22&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=700&lines=Building+scalable%2C+intelligent+systems;MCP+servers+%7C+RAG+pipelines+%7C+Agentic+AI;Full-Stack+%7C+DevOps+%7C+Cloud-Native;Open+to+interesting+problems." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sahaarijit&color=818cf8&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=sahaarijit&color=D97757&style=flat-square&label=Profile+Views" />
 &nbsp;
-<a href="https://www.linkedin.com/in/isahaarijit" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/isahaarijit"><img src="https://img.shields.io/badge/LinkedIn-isahaarijit-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Bengaluru%2C_India-%F0%9F%87%AE%F0%9F%87%B3-D97757?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open_to-Interesting_Problems-7C3AED?style=flat-square" />
 
 </div>
-
-<br/>
 
 ---
 
 ## `$ whoami`
 
 ```text
-Name    : Arijit
-Role    : Full-Stack Engineer & DevOps Enthusiast
-Focus   : Agentic AI  ·  MCP Servers  ·  RAG Pipelines  ·  Scalable Systems
-Based   : Bengaluru, India 🇮🇳
-Status  : Crafting intelligent, self-hostable systems
-Ask me  : Next.js · NestJS · React Native · Docker · AI Tooling
+👋  Hello, I'm Arijit
+
+Focus  :  Agentic AI  ·  MCP Servers  ·  RAG Pipelines  ·  Scalable Systems
+Status :  Crafting intelligent, self-hostable systems
 ```
 
 ---
@@ -35,21 +33,9 @@ Ask me  : Next.js · NestJS · React Native · Docker · AI Tooling
 
 <div align="center">
 
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" />
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nestjs,nodejs,py,postgres,docker" />
 <br/>
-
-**Backend & Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,postgres,redis,docker" />
-
-<br/>
-
-**DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=githubactions,linux,git,vscode,bash,aws" />
+<img src="https://skillicons.dev/icons?i=githubactions,linux,git,vscode,aws,redis,bash" />
 
 </div>
 
@@ -59,13 +45,19 @@ Ask me  : Next.js · NestJS · React Native · Docker · AI Tooling
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahaarijit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&ring_color=818cf8&icon_color=818cf8&title_color=818cf8" />
+<img src="https://streak-stats.demolab.com?user=sahaarijit&theme=tokyonight&hide_border=true&background=0D1117&ring=D97757&fire=C2410C&currStreakLabel=D97757&sideLabels=D97757" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahaarijit&theme=github_dark" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahaarijit&theme=github_dark" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahaarijit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=818cf8&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sahaarijit&theme=tokyonight&hide_border=true&background=0D1117&ring=818CF8&fire=F59E0B&currStreakLabel=818CF8&sideLabels=818CF8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahaarijit&theme=github_dark" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahaarijit&theme=github_dark&utcOffset=5.5" />
 
 </div>
 
@@ -75,9 +67,22 @@ Ask me  : Next.js · NestJS · React Native · Docker · AI Tooling
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahaarijit&theme=tokyo-night&bg_color=0D1117&color=818cf8&line=818cf8&point=F59E0B&area=true&area_color=818cf8&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahaarijit&theme=github-compact&hide_border=true&custom_title=Arijit%27s+Contribution+Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+---
+
+## ⏱️ Coding Activity
+
+<!--START_SECTION:waka-->
+
+```text
+⚙️  WakaTime not yet configured — set it up to see live coding stats here.
+    Guide: https://github.com/anmol098/waka-readme-stats
+```
+
+<!--END_SECTION:waka-->
 
 ---
 
@@ -88,29 +93,13 @@ Ask me  : Next.js · NestJS · React Native · Docker · AI Tooling
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 🏆 Trophies
-
 <div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=sahaarijit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-*"Build things that matter. Automate the rest."*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:D97757&height=80&section=footer" />
 </div>
