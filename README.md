@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:D97757,100:7C3AED&height=120&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:7C3AED&height=120&section=header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Serif&weight=700&size=42&duration=4000&pause=99999&color=D97757&center=true&vCenter=true&width=700&lines=Arijit+Saha" alt="Name" />
 
@@ -103,5 +103,5 @@ Status :  Crafting intelligent, self-hostable systems
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,100:D97757&height=80&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:D97757&height=80&section=footer" />
 </div>
