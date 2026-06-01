@@ -92,9 +92,11 @@ Status :  Crafting intelligent, self-hostable systems
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2014%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-84.97%20million%20lines%20of%20code-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-115-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.01%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -108,6 +110,47 @@ Status :  Crafting intelligent, self-hostable systems
  > 
 > 🔑 37 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                95850 commits       ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+🌆 Daytime                110064 commits      ████████░░░░░░░░░░░░░░░░░   32.89 % 
+🌃 Evening                83406 commits       ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+🌙 Night                  45279 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   9632 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Tuesday                  17761 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Wednesday                35049 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Thursday                 67411 commits       █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+Friday                   75801 commits       ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+Saturday                 97614 commits       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Sunday                   31331 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 15 hrs 20 mins      █████████████████░░░░░░░░   69.81 % 
+Python                   1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+JSON                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+JavaScript               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+YAML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+
+🔥 Editors: 
+Claude Code              18 hrs 54 mins      ██████████████████████░░░   86.08 % 
+VS Code                  3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+
+💻 Operating System: 
+Mac                      21 hrs 58 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -125,7 +168,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sahaarijit/sahaarijit/main/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2026 20:46:39 UTC
+ Last Updated on 01/06/2026 17:52:35 UTC
 <!--END_SECTION:waka-->
 
 ---
