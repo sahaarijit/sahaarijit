@@ -92,7 +92,7 @@ Status :  Crafting intelligent, self-hostable systems
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -156,11 +156,11 @@ Mac                      20 hrs 41 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               31 repos            ████████░░░░░░░░░░░░░░░░░   31.63 % 
-TypeScript               23 repos            ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-Python                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Java                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+JavaScript               31 repos            ████████░░░░░░░░░░░░░░░░░   31.31 % 
+TypeScript               23 repos            ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+Python                   17 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Java                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 
 
@@ -170,7 +170,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sahaarijit/sahaarijit/main/assets/bar_graph.png)
 
 
- Last Updated on 14/07/2026 03:11:23 UTC
+ Last Updated on 14/07/2026 10:18:45 UTC
 <!--END_SECTION:waka-->
 
 ---
