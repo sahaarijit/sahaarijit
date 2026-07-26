@@ -92,11 +92,11 @@ Status :  Crafting intelligent, self-hostable systems
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.41%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.42%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -113,20 +113,20 @@ Status :  Crafting intelligent, self-hostable systems
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9608 commits        ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-🌆 Daytime                14365 commits       █████████░░░░░░░░░░░░░░░░   36.84 % 
-🌃 Evening                9799 commits        ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-🌙 Night                  5221 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+🌞 Morning                9608 commits        ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+🌆 Daytime                14378 commits       █████████░░░░░░░░░░░░░░░░   36.86 % 
+🌃 Evening                9801 commits        ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+🌙 Night                  5221 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   3562 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Tuesday                  4086 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Wednesday                6108 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Tuesday                  4086 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Wednesday                6123 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
 Thursday                 6411 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Friday                   7631 commits        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Saturday                 7657 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Friday                   7631 commits        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Saturday                 7657 commits        █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
 Sunday                   3538 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 ```
 
@@ -137,20 +137,20 @@ Sunday                   3538 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 24 hrs 34 mins      ███████████████░░░░░░░░░░   58.29 % 
-JSON                     5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Text                     4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Python                   3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Other                    1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Markdown                 24 hrs 56 mins      ██████████████░░░░░░░░░░░   55.81 % 
+JSON                     5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Python                   4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Text                     4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Other                    1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 39 mins      █████████████████░░░░░░░░   67.98 % 
-VS Code                  13 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   31.22 % 
-Antigravity IDE          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Claude Code              29 hrs 40 mins      █████████████████░░░░░░░░   66.40 % 
+VS Code                  12 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+Antigravity IDE          2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 Antigravity Desktop      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      42 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      44 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -170,7 +170,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sahaarijit/sahaarijit/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 17:23:57 UTC
+ Last Updated on 26/07/2026 03:51:18 UTC
 <!--END_SECTION:waka-->
 
 ---
