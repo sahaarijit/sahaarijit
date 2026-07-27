@@ -92,17 +92,19 @@ Status :  Crafting intelligent, self-hostable systems
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-454%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-434%20hrs%2057%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-408%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.50%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 5,625 Contributions in the Year 2026
+> 🏆 5,629 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -113,20 +115,20 @@ Status :  Crafting intelligent, self-hostable systems
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9615 commits        ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-🌆 Daytime                14432 commits       █████████░░░░░░░░░░░░░░░░   36.92 % 
-🌃 Evening                9818 commits        ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
+🌞 Morning                9617 commits        ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+🌆 Daytime                14443 commits       █████████░░░░░░░░░░░░░░░░   36.93 % 
+🌃 Evening                9827 commits        ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
 🌙 Night                  5224 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   3581 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Tuesday                  4109 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Wednesday                6152 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Thursday                 6413 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Friday                   7632 commits        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Saturday                 7664 commits        █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Monday                   3587 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Tuesday                  4121 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Wednesday                6156 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Thursday                 6413 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Friday                   7632 commits        █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Saturday                 7664 commits        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
 Sunday                   3538 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 ```
 
@@ -153,6 +155,30 @@ Antigravity Desktop      2 mins              ░░░░░░░░░░░�
 Mac                      38 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 31 hrs 6 mins (81.79%)
+
+✍️ 32,145 lines written by AI, 269 lines written by hand (99.17% AI-written)
+
+🔤 2,184,038,497 Input Tokens, 3,963,825 Output Tokens
+
+💵 $6898.28 Estimated AI Cost This Week
+
+🧠 60 AI Sessions, 481 AI Prompts
+
+Sonnet                   34,375 lines        ██████████████████████░░░   89.81 % 
+Opus                     3,900 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.17% of written lines came from AI
+📚 Verbose Prompter — average 6,316 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 2.72% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -170,7 +196,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sahaarijit/sahaarijit/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 11:54:18 UTC
+ Last Updated on 27/07/2026 18:07:54 UTC
 <!--END_SECTION:waka-->
 
 ---
