@@ -92,9 +92,9 @@ Status :  Crafting intelligent, self-hostable systems
 ## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-412%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-416%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -139,44 +139,45 @@ Sunday                   3538 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 15 hrs 41 mins      ███████████░░░░░░░░░░░░░░   43.31 % 
-Text                     4 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Python                   4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-JSON                     4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Other                    2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Markdown                 12 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   38.52 % 
+Text                     5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Python                   4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+JSON                     3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Other                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 18 mins      ████████████████░░░░░░░░░   64.33 % 
-VS Code                  10 hrs 16 mins      ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-Antigravity IDE          2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Claude Code              18 hrs 43 mins      ███████████████░░░░░░░░░░   59.75 % 
+VS Code                  9 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.80 % 
+Antigravity IDE          2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      36 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 6 mins (83.1%)
+⏱ AI Coding Time: 24 hrs 58 mins (79.7%)
 
-✍️ 29,108 lines written by AI, 257 lines written by hand (99.12% AI-written)
+✍️ 28,642 lines written by AI, 229 lines written by hand (99.21% AI-written)
 
-🔤 2,045,177,971 Input Tokens, 3,663,599 Output Tokens
+🔤 2,178,603,770 Input Tokens, 4,643,583 Output Tokens
 
-💵 $6354.87 Estimated AI Cost This Week
+💵 $7304.86 Estimated AI Cost This Week
 
-🧠 110 AI Sessions, 467 AI Prompts
+🧠 171 AI Sessions, 462 AI Prompts
 
-Sonnet                   31,809 lines        ███████████████████████░░   91.68 % 
-Opus                     2,886 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Sonnet                   25,261 lines        ███████████████████░░░░░░   75.00 % 
+Opus                     7,373 lines         █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+GPT                      1,048 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.12% of written lines came from AI
-📚 Verbose Prompter — average 6,372 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.45% of changed lines were hand-edited
+🤖 AI-Driven — 99.21% of written lines came from AI
+📚 Verbose Prompter — average 5,800 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 3.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -196,7 +197,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sahaarijit/sahaarijit/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 18:04:42 UTC
+ Last Updated on 29/07/2026 03:33:48 UTC
 <!--END_SECTION:waka-->
 
 ---
