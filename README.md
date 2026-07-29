@@ -98,13 +98,13 @@ Status :  Crafting intelligent, self-hostable systems
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.98%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-30.49%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 5,718 Contributions in the Year 2026
+> 🏆 5,735 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -115,21 +115,21 @@ Status :  Crafting intelligent, self-hostable systems
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9760 commits        ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-🌆 Daytime                14745 commits       █████████░░░░░░░░░░░░░░░░   37.14 % 
-🌃 Evening                9947 commits        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-🌙 Night                  5247 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+🌞 Morning                9854 commits        ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+🌆 Daytime                15134 commits       █████████░░░░░░░░░░░░░░░░   37.52 % 
+🌃 Evening                10045 commits       ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+🌙 Night                  5298 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   3629 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Tuesday                  4371 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Wednesday                6402 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Thursday                 6423 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Friday                   7637 commits        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Saturday                 7699 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Sunday                   3538 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Monday                   3701 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Tuesday                  4546 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Wednesday                6563 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Thursday                 6517 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Friday                   7701 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Saturday                 7746 commits        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Sunday                   3557 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 ```
 
 
@@ -180,14 +180,14 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 3.37% of changed lines were hand-edited
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Python                   40 repos            ████████░░░░░░░░░░░░░░░░░   32.79 % 
-JavaScript               31 repos            ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
-TypeScript               23 repos            █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Java                     11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+JavaScript               53 repos            ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+TypeScript               48 repos            ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+Python                   41 repos            █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+C++                      21 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 
 
@@ -197,7 +197,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sahaarijit/sahaarijit/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 03:33:48 UTC
+ Last Updated on 29/07/2026 11:06:54 UTC
 <!--END_SECTION:waka-->
 
 ---
