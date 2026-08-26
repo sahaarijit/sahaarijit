@@ -25,8 +25,7 @@
 ```text
 👋  Hello, I'm Arijit
 
-Focus  :  Agentic AI  ·  MCP Servers  ·  RAG Pipelines  ·  Scalable Systems
-Status :  Crafting intelligent, self-hostable systems
+Crafting intelligent, scalable systems
 ```
 
 ---
