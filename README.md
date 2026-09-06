@@ -30,18 +30,6 @@ Crafting intelligent, scalable systems
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nestjs,nodejs,py,postgres,docker" />
-<br/>
-<img src="https://skillicons.dev/icons?i=githubactions,linux,git,vscode,aws,redis,bash" />
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
