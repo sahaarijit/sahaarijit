@@ -1,0 +1,20 @@
+{
+  "type": "normal",
+  "fileName": "contributions-3d.svg",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#1f2328",
+  "strongColor": "#1f2328",
+  "weakColor": "#59636e",
+  "radarColor": "#30a14e",
+  "growingAnimation": true,
+  "contribColors": ["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"],
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#1c1c1c",
+    "foregroundColor": "#f0f6fc",
+    "strongColor": "#f0f6fc",
+    "weakColor": "#9198a1",
+    "radarColor": "#26a641",
+    "contribColors": ["#2a2a2a", "#0e4429", "#006d32", "#26a641", "#39d353"]
+  }
+}
