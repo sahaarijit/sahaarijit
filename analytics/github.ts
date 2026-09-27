@@ -104,6 +104,15 @@ async function queryGitHub(token: string, query: string, variables: Record<strin
   return payload.data;
 }
 
+export async function isTokenAccepted(token: string): Promise<boolean> {
+  const response = await fetch(GRAPHQL_URL, {
+    method: "POST",
+    headers: { Authorization: `bearer ${token}`, "Content-Type": "application/json" },
+    body: JSON.stringify({ query: "{ viewer { login } }" }),
+  });
+  return response.ok;
+}
+
 function addToTally(tally: Map<string, number>, name: string | undefined, amount: number) {
   if (!name) return;
   tally.set(name, (tally.get(name) ?? 0) + amount);

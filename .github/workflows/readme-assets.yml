@@ -2,7 +2,7 @@ name: Generate README Assets
 
 on:
   schedule:
-    - cron: "0 */8 * * *"
+    - cron: "0 0,12 * * *" # every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -19,6 +19,7 @@ jobs:
       - name: Render analytics cards
         run: bun analytics/main.ts
         env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USER: ${{ github.repository_owner }}
           OUTPUT_DIR: dist

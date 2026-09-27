@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 ## `$ whoami`
 
 ```text
@@ -68,8 +66,6 @@ Crafting intelligent, scalable systems
 <br/>
 
 <sub>Thanks for Visiting</sub>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=sahaarijit&color=DE8F4F&style=flat&label=Profile+views" />
