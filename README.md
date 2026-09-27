@@ -60,7 +60,7 @@ Crafting intelligent, scalable systems
 
 <div align="center">
 
-<img alt="3D contribution calendar" src="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/contributions-3d.svg" />
+<img width="700" alt="3D contribution calendar" src="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/contributions-3d.svg" />
 
 <br/>
 <br/>

@@ -31,8 +31,10 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: .github/3d-contrib.json
 
-      - name: Collect 3D contributions
-        run: cp profile-3d-contrib/contributions-3d.svg dist/
+      - name: Frame and collect 3D contributions
+        run: |
+          bun analytics/frame-contributions.ts profile-3d-contrib/contributions-3d.svg
+          cp profile-3d-contrib/contributions-3d.svg dist/
 
       # One push for every asset, because this action replaces the whole output branch
       - name: Push SVGs to output branch
