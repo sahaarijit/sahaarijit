@@ -1,18 +1,4 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9A5416,100:DE8F4F&height=120&section=header" />
-
-</div>
-
-## `$ whoami`
-
-```text
-👋  Hello, I'm Arijit
-
-Crafting intelligent, scalable systems
-```
-
----
+## Hello, I'm Arijit 👋
 
 ## GitHub Analytics
 
@@ -54,16 +40,19 @@ Crafting intelligent, scalable systems
 
 </div>
 
----
-
 ## Contributions
 
 <div align="center">
 
 <img width="700" alt="3D contribution calendar" src="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/contributions-3d.svg" />
 
-<br/>
-<br/>
+</div>
+
+## Philosophy
+
+> Becoming a better engineer than yesterday.
+
+<div align="center">
 
 <sub>Thanks for Visiting</sub>
 
@@ -73,8 +62,4 @@ Crafting intelligent, scalable systems
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=sahaarijit&color=9A5416&style=flat&label=Profile+views" />
 </picture>
 
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DE8F4F,100:9A5416&height=80&section=footer" />
 </div>
