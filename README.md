@@ -2,7 +2,7 @@
 
 ## About Me
 
-I design and build high-performance platforms that handle large volumes of data. I also spend time improving systems to be faster, more reliable, and cost-effective.
+I design and build high-performance platforms that handle large volumes of data, contribute to improve systems to be faster, reliable, and cost-effective.
 
 More recently, I've been building AI agents that fit into existing workflows, whether that's automating content delivery, streamlining internal processes, developing AI-powered quality control systems, or meeting specific business needs.
 
