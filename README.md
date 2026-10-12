@@ -46,13 +46,13 @@ I enjoy solving challenging engineering problems, especially when they involve i
 
 </div>
 
-## Contributions
+<!-- ## Contributions
 
 <div align="center">
 
 <img width="700" alt="3D contribution calendar" src="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/contributions-3d.svg" />
 
-</div>
+</div> -->
 
 ## Philosophy
 
