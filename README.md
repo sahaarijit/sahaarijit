@@ -32,7 +32,7 @@ I enjoy solving challenging engineering problems, especially when they involve i
 
 <br/>
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/analytics-stats-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/analytics-stats-light.svg" />
   <img alt="Stats" src="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/analytics-stats-light.svg" />
@@ -42,7 +42,7 @@ I enjoy solving challenging engineering problems, especially when they involve i
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/analytics-commits-per-hour-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/analytics-commits-per-hour-light.svg" />
   <img alt="Commits per hour" src="https://raw.githubusercontent.com/sahaarijit/sahaarijit/output/analytics-commits-per-hour-light.svg" />
-</picture>
+</picture> -->
 
 </div>
 
